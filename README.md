@@ -61,7 +61,7 @@ My passion lies in integrating **technology, data, and intelligent systems** to 
 
 #### 🏭 Industrial Experience
 
-**Borgert Aluminum – Deployment & Commissioning Engineer (2013–2018)**  
+**Aluminios SA – Deployment & Commissioning Engineer (2006–2025)**  
 
 Led the **installation, calibration, and commissioning of three complete aluminum extrusion lines**, including:
 
