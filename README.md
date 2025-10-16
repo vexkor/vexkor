@@ -1,29 +1,29 @@
-<!-- Encabezado -->
-<h1 align="center">👋 Hola, soy Ariel Marcelo López</h1>
-<h3 align="center">🚀 Fundador de <a href="https://www.vexkor.com">Vexkor</a> | Full Stack IoT & Automation Engineer</h3>
+<!-- Header -->
+<h1 align="center">👋 Hi, I'm Ariel Marcelo López</h1>
+<h3 align="center">🚀 Founder of <a href="https://www.vexkor.com">Vexkor</a> | Full Stack IoT & Automation Engineer</h3>
 
 ---
 
-### 🌐 Sobre mí
+### 🌐 About Me
 
-Soy **Ingeniero Bioingeniero con Maestría en Control de Sistemas**, especializado en el diseño e implementación de **infraestructura IoT Edge–Cloud** para automatización industrial, mantenimiento predictivo y digitalización de procesos.
+I am a **Bioengineer with a Master's in Control Systems**, specialized in designing and implementing **IoT Edge–Cloud infrastructures** for industrial automation, predictive maintenance, and process digitalization.
 
-Me apasiona integrar **tecnología, datos y sistemas inteligentes** para crear soluciones eficientes y sostenibles en industrias críticas: energía, agro, facility management y salud.
-
----
-
-### 🧩 Áreas de trabajo en Vexkor
-
-| Línea | Descripción |
-|-------|--------------|
-| 🏗️ **SmartBuild** | Automatización y monitoreo de edificios inteligentes |
-| 🚜 **AgroSmart** | IoT aplicado al control de riego y agroindustria |
-| 🏭 **FleetSmart** | Mantenimiento predictivo para grúas y maquinaria pesada |
-| 🧰 **Healthcare Automation** | Control y trazabilidad en equipos hospitalarios |
+My passion lies in integrating **technology, data, and intelligent systems** to deliver efficient and sustainable solutions for critical sectors such as energy, agriculture, healthcare, and building management.
 
 ---
 
-### ⚙️ Stack Tecnológico Principal
+### 🧩 Vexkor – Areas of Focus
+
+| Line | Description |
+|------|--------------|
+| 🏗️ **SmartBuild** | Building automation and intelligent energy monitoring |
+| 🚜 **AgroSmart** | IoT-based irrigation and smart agriculture systems |
+| 🏭 **FleetSmart** | Predictive maintenance for cranes, heavy fleets, and industrial equipment |
+| 🧰 **Healthcare Automation** | Instrument monitoring and traceability in sterilization and medical facilities |
+
+---
+
+### ⚙️ Core Technology Stack
 
 #### 💻 Edge / Gateway
 `Siemens IoT2050` • `Node-RED` • `MQTT` • `Modbus` • `OPC-UA`
@@ -34,48 +34,48 @@ Me apasiona integrar **tecnología, datos y sistemas inteligentes** para crear s
 #### ⚙️ DevOps
 `Linux` • `Docker Compose` • `Ansible` • `Terraform` • `GitHub Actions`
 
-#### 🔒 Seguridad
+#### 🔒 Security
 `VPN Tailscale` • `TLS/SSL` • `SSH Keys` • `UFW Firewall`
 
-#### 📊 Analítica & IA
+#### 📊 Analytics & AI
 `Python` • `pandas` • `Machine Learning` • `Anomaly Detection`
 
 ---
 
-### 💼 Proyectos destacados
+### 💼 Featured Projects
 
-| Proyecto | Descripción | Repositorio |
-|-----------|--------------|--------------|
-| 🧱 **Vexkor IoT Stack** | Plataforma Dockerizada IoT Edge–Cloud | [🔗 GitHub](https://github.com/vexkor/vexkor-iot-stack) |
-| 🗺️ **Roadmap Vexkor 2025** | Plan técnico de infraestructura IoT Edge–Cloud | [🔗 GitHub](https://github.com/vexkor/vexkor-roadmap) |
-| ⚙️ **Smart Gateway Demo** | Gateway Siemens IoT2050 simulando datos industriales | [🌐 Web](https://www.vexkor.com) |
-
----
-
-### 🧠 Formación y experiencia
-
-🎓 **Bioingeniero (UNER)**  
-🎓 **Maestría en Control de Sistemas (UNDEF)**  
+| Project | Description | Repository |
+|----------|--------------|-------------|
+| 🧱 **Vexkor IoT Stack** | Dockerized IoT Edge–Cloud platform for data acquisition, storage, and visualization | [🔗 GitHub](https://github.com/vexkor/vexkor-iot-stack) |
+| 🗺️ **Vexkor Roadmap 2025** | Technical roadmap for Edge–Cloud infrastructure and DevOps practices | [🔗 GitHub](https://github.com/vexkor/vexkor-roadmap) |
+| ⚙️ **Smart Gateway Demo** | Siemens IoT2050 demo project simulating industrial data pipelines | [🌐 Website](https://www.vexkor.com) |
 
 ---
 
-#### 🏭 Experiencia en Industria del Aluminio
+### 🧠 Education & Experience
 
-**Borgert Aluminio – Deployment & Commissioning Engineer (2006–2025)**  
-
-Durante mi trayectoria profesional, lideré la **instalación, calibración y puesta en marcha de tres prensas completas de extrusión de aluminio**, abarcando:
-
-- 🧱 **Montaje integral** de líneas de producción (prensas, hornos, mesas de salida, enfriamiento, estirado y corte).  
-- ⚙️ **Integración de sistemas de control automatizados** para procesos de extrusión, sincronización de ejes y seguridad operacional.  
-- 📊 **Implementación de un sistema de monitoreo y alarmas en tiempo real**, con registro histórico de variables críticas.  
-- 🔧 **Configuración y calibración de parámetros de proceso**, optimizando trazabilidad y eficiencia energética.  
-- 🧩 **Optimización de tiempos de ciclo y planificación de mantenimiento preventivo**, reduciendo paradas no programadas.
-
-💡 *Esta experiencia consolidó mi perfil técnico en automatización industrial, control de procesos y despliegue de soluciones IoT en entornos productivos reales.*
+🎓 **Bioengineering – UNER (Argentina)**  
+🎓 **Master’s in Control Systems – UNDEF**
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+#### 🏭 Industrial Experience
+
+**Borgert Aluminum – Deployment & Commissioning Engineer (2013–2018)**  
+
+Led the **installation, calibration, and commissioning of three complete aluminum extrusion lines**, including:
+
+- 🧱 **Full system assembly** of extrusion lines (presses, furnaces, run-out tables, cooling, stretching, and cutting systems).  
+- ⚙️ **Integration of automated control systems** for process synchronization, motion control, and safety operations.  
+- 📊 **Development of real-time monitoring and alarm systems** with historical data tracking.  
+- 🔧 **Parameter calibration and process optimization**, improving traceability and energy efficiency.  
+- 🧩 **Preventive maintenance planning and production optimization**, reducing downtime and improving system reliability.  
+
+💡 *This hands-on industrial experience laid the foundation for my current IoT and automation projects, bridging physical systems with cloud intelligence.*
+
+---
+
+### 🛠️ Tools & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
@@ -91,7 +91,7 @@ Durante mi trayectoria profesional, lideré la **instalación, calibración y pu
 
 ---
 
-### 📊 Estadísticas GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vexkor&show_icons=true&theme=tokyonight" height="150"/>
@@ -100,23 +100,13 @@ Durante mi trayectoria profesional, lideré la **instalación, calibración y pu
 
 ---
 
-### 🌍 Contacto
+### 🌍 Contact
 
 📧 [info@vexkor.com](mailto:info@vexkor.com)  
 🌐 [www.vexkor.com](https://www.vexkor.com)  
-💼 [LinkedIn – Ariel Marcelo López](https://www.linkedin.com/in/arielmarcelolopez)  
-
----
-
-<h4 align="center">🧩 “Vexkor: Tecnología en el núcleo de cada sistema.”</h4>
-
-
-## 🌐 Contacto
-
-📧 [info@vexkor.com](mailto:info@vexkor.com)  
-🌍 [www.vexkor.com](https://www.vexkor.com)  
 💼 [LinkedIn – Ariel Marcelo López](https://www.linkedin.com/in/arielmarcelolopez)
 
 ---
 
-🧩 *“Vexkor: Tecnología en el núcleo de cada sistema.”*
+<h4 align="center">🧩 “Vexkor: Technology at the Core of Every System.”</h4>
+
