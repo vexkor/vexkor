@@ -61,7 +61,7 @@ Me apasiona integrar **tecnología, datos y sistemas inteligentes** para crear s
 
 #### 🏭 Experiencia en Industria del Aluminio
 
-**Borgert Aluminio – Deployment & Commissioning Engineer (2013–2018)**  
+**Borgert Aluminio – Deployment & Commissioning Engineer (2006–2025)**  
 
 Durante mi trayectoria profesional, lideré la **instalación, calibración y puesta en marcha de tres prensas completas de extrusión de aluminio**, abarcando:
 
